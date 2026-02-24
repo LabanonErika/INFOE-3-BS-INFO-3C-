@@ -5,8 +5,8 @@
     
     * If we place two arrays next to each other, we can "spill" data from one into the other. This is called a "buffer overflow" vulnerability.
 
-Instructions:
-    run buffer.cpp
+- Instructions:
+    - run buffer.cpp
         * if you're on VSCode, open terminal and run "g++ buffer.cpp -o    buffer" to compile
         
         * then run "./buffer" to run the program
@@ -51,5 +51,14 @@ Instructions:
     
     4. Imagine this was running the control system for a local power grid.
         * Who might want to exploit this vulnerability?
-        
+
         * What would be the real-world consequence if the secret_key (controlling the power switch) was overwritten by a pro cyber-attacker?
+
+6. Submittables
+    - Document file with screenshots of your work, and your answers to the questions above. Include sources. Format either in Word or PDF.
+
+    - Code file.
+
+    - Compile and submit/push files to repository within a single folder. 
+
+    - Naming convention: lastname_course/yr/section_lab1 
