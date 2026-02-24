@@ -59,6 +59,7 @@
 
     - Code file.
 
-    - Compile and submit/push files to repository within a single folder. 
+    - Compile and submit/push files to repository within a single folder. It will look like this:
+        - ![see image](image.png)
 
     - Naming convention: lastname_course/yr/section_lab1 
